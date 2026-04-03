@@ -1,0 +1,290 @@
+{
+  "#introduction": {
+    "description": "Initial contact sessions and introductory material",
+    "sessions": [
+      1,
+      2,
+      3
+    ],
+    "files": [
+      "sessions/session_001.md",
+      "sessions/session_002.md",
+      "sessions/session_003.md"
+    ]
+  },
+  "#law-of-one": {
+    "description": "Core Law of One principles \u2014 unity, love/light, the Infinite Creator",
+    "sessions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "files": [
+      "sessions/session_001.md"
+    ]
+  },
+  "#densities": {
+    "description": "The eight-density structure of consciousness evolution",
+    "sessions": [
+      13,
+      16,
+      19,
+      28,
+      34,
+      40,
+      41,
+      43
+    ],
+    "files": [
+      "topics/densities.md",
+      "analysis/density_math.md"
+    ]
+  },
+  "#harvest": {
+    "description": "The graduation from third to fourth density",
+    "sessions": [
+      17,
+      22,
+      25,
+      40,
+      63,
+      65,
+      70,
+      82
+    ],
+    "files": [
+      "topics/the_harvest.md"
+    ]
+  },
+  "#social-memory-complex": {
+    "description": "Group consciousness entities of fourth density and above",
+    "sessions": [
+      1,
+      7,
+      16,
+      28,
+      43,
+      52
+    ],
+    "files": [
+      "topics/social_memory_complex.md"
+    ]
+  },
+  "#wanderers": {
+    "description": "Higher-density souls incarnated on Earth",
+    "sessions": [
+      12,
+      17,
+      36,
+      46,
+      63,
+      65
+    ],
+    "files": [
+      "topics/wanderers.md"
+    ]
+  },
+  "#polarity": {
+    "description": "Service-to-Others vs. Service-to-Self polarization",
+    "sessions": [
+      16,
+      17,
+      19,
+      36,
+      52,
+      82
+    ],
+    "files": [
+      "topics/densities.md",
+      "analysis/cosmology_map.md"
+    ]
+  },
+  "#confederation": {
+    "description": "The Confederation of Planets in the Service of the Infinite Creator",
+    "sessions": [
+      1,
+      7,
+      8,
+      9,
+      10
+    ],
+    "files": [
+      "sessions/session_001.md",
+      "analysis/cosmology_map.md"
+    ]
+  },
+  "#orion-group": {
+    "description": "The negative-polarity Orion Group",
+    "sessions": [
+      8,
+      9,
+      10,
+      16
+    ],
+    "files": [
+      "analysis/cosmology_map.md"
+    ]
+  },
+  "#contact-mechanics": {
+    "description": "How the Ra contact works \u2014 tuning, narrow-band vibration, instrument preparation",
+    "sessions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "files": [
+      "sessions/session_001.md"
+    ]
+  },
+  "#free-will": {
+    "description": "The Law of Confusion / free will as first distortion",
+    "sessions": [
+      1,
+      27,
+      36,
+      63
+    ],
+    "files": [
+      "sessions/session_001.md",
+      "analysis/cosmology_map.md"
+    ]
+  },
+  "#logos": {
+    "description": "The Logos hierarchy \u2014 Creative Principle at every level",
+    "sessions": [
+      27,
+      28,
+      29
+    ],
+    "files": [
+      "analysis/cosmology_map.md"
+    ]
+  },
+  "#veil": {
+    "description": "The veil of forgetting in third density",
+    "sessions": [
+      40,
+      77,
+      82
+    ],
+    "files": [
+      "analysis/cosmology_map.md"
+    ]
+  },
+  "#atlantis": {
+    "description": "Ra's accounts of Atlantis and its fall",
+    "sessions": [
+      19,
+      21,
+      22,
+      60
+    ],
+    "files": [
+      "analysis/density_math.md"
+    ]
+  }
+}
